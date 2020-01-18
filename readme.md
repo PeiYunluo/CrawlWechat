@@ -23,7 +23,9 @@ spiders:所有爬虫
 git init
 git add .
 git commit -m 'first'
-git remote add origin https://github.com/fikyair/SSM.git
+''
+git remote add origin https://github.com/PeiYunluo/CrawlWechat.git
+
 (ps:新建的仓库地址)
 git push origin master
 4、等待上传就好了。
